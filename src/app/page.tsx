@@ -2,7 +2,7 @@ import type { FormData } from '@/types/FormData'
 import Form from '@/components/Form'
 
 /* Example case:
-   - First Name (TextField required)
+    - First Name (TextField required)
     - Last Name (TextField required)
     - Email (TextField required)
     - Role (SelectField)
